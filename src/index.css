@@ -1,0 +1,18 @@
+/* Reset básico */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Montserrat', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #121214;
+  color: #ffffff;
+}
+
+/* Links sem sublinhado */
+a {
+  text-decoration: none;
+  color: inherit;
+}
